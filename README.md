@@ -1,2 +1,3 @@
-# fl_json_displayer
-Simple json displayer made in flutter
+# flutter_application_1
+
+A new Flutter project.
